@@ -56,20 +56,16 @@ This project can be deployed using the bootstrap script.
 ## Steps
 
 1. Clone the repository:
-
-```bash
+````
 git clone https://github.com/youruser/homelab-ubuntu-core.git
-cd homelab-ubuntu-core```
+cd homelab-ubuntu-core
+````
 
 2. Make script executable:
-```
-chmod +x scripts/bootstrap.sh
-```
+```chmod +x scripts/bootstrap.sh```
 
 3. Run bootstrap
-```
-chmod +x scripts/bootstrap.sh
-```
+```sudo ./scripts/bootstrap.sh```
 
 ## Important
 Run as sudo
